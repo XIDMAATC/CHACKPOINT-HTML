@@ -1,0 +1,49 @@
+.title-2{
+    color:blue;    
+}
+.title-1{
+    color: chocolate; text-align: center; 
+}
+.title-12{
+background-color: black; height: 50px;
+}
+.title-10{
+    color: mintcream; text-decoration: none;
+}
+.title-9{
+    color: darkgreen;
+}
+.sidebar{
+    background: #000;
+    width: 25%;
+    height: 50px;
+}
+.flex{
+    display: flex;
+    gap: 30px; text-decoration: none; list-style: none;
+}
+.title-3{
+    color: red;
+}
+.title-3{
+    color: red;
+}
+.title-4{
+    color: blue; font-size: xx-large; 
+}
+.title-7{
+    color: green;
+}
+.title-8{
+    color: green;
+}
+.title-5{
+    color: blue;
+}
+h1{
+    color: blue;
+}
+.title-6{
+    color: blue;
+}
+    
